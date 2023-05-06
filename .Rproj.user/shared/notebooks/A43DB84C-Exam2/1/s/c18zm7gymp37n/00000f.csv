@@ -1,0 +1,6 @@
+"0","ggplot(CollegeData, aes(x = Cost, y = MedIncome, size = Enrollment, fill = Control)) +"
+"0","  geom_point(shape = 21, alpha = 0.5) +"
+"0","  labs(x = ""Average Total Cost for Tuition, Room, Board, etc."", y = ""Median Family Income(in $1,000)"") +"
+"0","  scale_fill_manual(values = c(""mediumaquamarine"", ""orange"", ""mediumpurple"")) +"
+"0","  guides(size = guide_legend(title = ""Undergrad \n Enrollment""), fill = guide_legend(title = ""Type of School""))"
+"0",""

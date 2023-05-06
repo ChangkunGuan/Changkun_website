@@ -1,0 +1,6 @@
+"0","ggplot(CollegeData, aes(AdmitRate * 100, CompRate)) +"
+"0","  stat_density_2d(aes(fill = after_stat(level)), geom = ""polygon"", color = ""white"") + "
+"0","  scale_fill_distiller(palette = ""Spectral"") +"
+"0","  geom_point(shape = 4, size = 0.5, alpha = 0.75, color = ""black"") +"
+"0","  labs(x = ""Admission Rate"", y = ""Completion Rate"", title = ""Student Coming in & Going out"") +"
+"0","  guides(fill = guide_colourbar(title = ""Density""))"
