@@ -1,0 +1,33 @@
+---
+title: "Changkun Guan's Website"
+description: |
+  Welcome to the website. I hope you enjoy it!
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+```
+
+
+# Welcome
+
+Welcome to the MATH230 Final Project website! In the top right corner, you'll discover links to Course Visualizations and a Virtual Art Exhibit that I've created.
+
+In the Virtual Art Exhibit, it delves into the intriguing connection between music and mental health. Data visualization plays a crucial role in data analysis, offering a comprehensive view of the relationships between various factors. In this study, we employ various visualization techniques to examine and better understand the relationship between music and mental health. The visualizations will also help determine if there is a significant connection between music and mental health and, if so, identify the types of music that have the most substantial impact on mental well-being.
+
+With an interesting dataset on music and mental health at hand, I hope you enjoy exploring the visualizations I've created!
+
+# Poster 
+
+![Poster1.png](Poster1.png)
+
+# About me
+
+My name is Changkun Guan. I am from Changzhou, Jiangsu Province, China! I'm currently a junior majoring in Applied Math and Computer Science at Bucknell University. In my free time, I love to playing basketball and camping. 
+
+Email: cg034\@bucknell.edu
+

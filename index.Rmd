@@ -23,7 +23,7 @@ With an interesting dataset on music and mental health at hand, I hope you enjoy
 
 # Poster 
 
-![Poster.png](Poster.png)
+![Poster1.png](Poster1.png)
 
 # About me
 
